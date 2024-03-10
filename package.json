@@ -1,9 +1,9 @@
 {
-  "name": "millwoodwynona/tea-xyz-quest",
+  "name": "@millwoodwynona/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "millwoodwynona",
+  "author": "@millwoodwynona",
   "repository": "https://github.com/MillwoodWynona/M.git",
   "license": "ISC",
 }
